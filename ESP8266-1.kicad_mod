@@ -36,4 +36,15 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model Pin_Headers.3dshapes/Pin_Header_Straight_2x04.wrl
+    (at (xyz 0 0 .442))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
+  (model mysensors.3dshapes/esp8266-1.wrl
+    (at (xyz -0.011 -0.281 0.475))
+    (scale (xyz 0.39 0.39 0.39))
+    (rotate (xyz 0 0 0))
+  )
+
 )
