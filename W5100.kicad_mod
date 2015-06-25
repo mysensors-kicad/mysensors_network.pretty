@@ -44,4 +44,22 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model Pin_Headers.3dshapes/Pin_Header_Straight_2x05.wrl
+    (at (xyz -0.2 -0.05 0.522))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
+  (model mysensors.3dshapes/w5100.wrl
+    (at (xyz -0.075 -0.85 0.555))
+    (scale (xyz .39 .39 .39))
+    (rotate (xyz 0 0 180))
+  )
+  (model mysensors.3dshapes/w.lain.3dshapes/conn_pc/rj45-led-rb1-125bag1a.wrl
+    (at (xyz -0.28 -1.5 0.53))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
+
+
+
 )
