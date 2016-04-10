@@ -49,12 +49,12 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))
   )
-  (model mysensors.3dshapes/w5100.wrl
+  (model ${MYSLOCAL}/mysensors.3dshapes/mysensors_network.3dshapes/w5100.wrl
     (at (xyz -0.075 -0.85 0.555))
     (scale (xyz 0.39 0.39 0.39))
     (rotate (xyz 0 0 180))
   )
-  (model mysensors.3dshapes/w.lain.3dshapes/conn_pc/rj45-led-rb1-125bag1a.wrl
+  (model ${MYSLOCAL}/mysensors.3dshapes/w.lain.3dshapes/conn_pc/rj45-led-rb1-125bag1a.wrl
     (at (xyz -0.28 -1.5 0.53))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))
